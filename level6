@@ -1,0 +1,10 @@
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+
+find . -type f -size 1033c ! -executable -exec file {} + | grep ASCII
+
+find . -type f -size 1033c => find command where size is 1033 byte
+! - executable -exec file {} + => non executable files
+| grep ASCII => find human readable filkoReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+
