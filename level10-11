@@ -1,0 +1,9 @@
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+solutions => base64 -D [filename]
+
+## encode without file
+echo 'abc' | base64
+
+## decode without file
+echo '#df22dd' | bas64 --decode

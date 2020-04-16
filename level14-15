@@ -1,0 +1,4 @@
+using telnet
+telnet localhost 30000
+insert password -> 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+then get BfMYroe26WYalil77FoDi9qh59eK5xNr
